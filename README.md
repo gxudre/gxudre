@@ -36,3 +36,8 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e **Design Gráfico**
 ## 📬 **Entre em contato comigo**
 📧 Email: **gxudre@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-xudre/)  
+
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlraW1vc2VydGNsNjdqZzc4MTNmeWJlNDZoMHlxMGJxenE0MHNqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2Q7FEc0bEr4I/giphy.gif" alt="GIF animado">
+</p>
