@@ -1,4 +1,8 @@
-<h1 align="center">Olá, Prazer ! Eu sou o Gustavo! 👋</h1>
+<p align="right">
+  🌍 <a href="#-sobre-mim">Português</a> | 🇺🇸 <a href="#-about-me">English</a>
+</p>
+
+<h1 align="center">Olá, Prazer! Eu sou o Gustavo! 👋</h1>
 
 <p align="center">
 💻 Desenvolvedor Full-stack | 🎨 Designer Gráfico
@@ -10,10 +14,10 @@
 Sou graduado em **Análise e Desenvolvimento de Sistemas** e **Design Gráfico**. Tenho experiência na criação e manutenção de **APIs** para integração eficiente entre **front-end** e **back-end**, além do design e otimização de bancos de dados **SQL** e **NoSQL**.
 
 ### 🎨 **Design & Desenvolvimento**
-- Criação de interfaces **responsivas** e **intuitivas** para diversos dispositivos 📱💻
-- Desenvolvimento de **APIs seguras** e escaláveis ⚡
-- Monitoramento de desempenho e **implementação de melhorias contínuas** 🚀
-- Experiência em **UI/UX Design**, criação de logotipos, campanhas publicitárias e materiais gráficos
+- Criação de interfaces **responsivas** e **intuitivas** para diversos dispositivos 📱💻  
+- Desenvolvimento de **APIs seguras** e escaláveis ⚡  
+- Monitoramento de desempenho e **implementação de melhorias contínuas** 🚀  
+- Experiência em **UI/UX Design**, criação de logotipos, campanhas publicitárias e materiais gráficos  
 
 ---
 
@@ -37,6 +41,30 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e **Design Gráfico**
 📧 Email: **gxudre@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-xudre/)  
 
+---
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlraW1vc2VydGNsNjdqZzc4MTNmeWJlNDZoMHlxMGJxenE0MHNqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2Q7FEc0bEr4I/giphy.gif" alt="GIF animado">
+</p>
+
+---
+
+## 📌 **About Me**
+I have a degree in **Systems Analysis and Development** and **Graphic Design**. I have experience in creating and maintaining **APIs** for efficient integration between **front-end** and **back-end**, as well as designing and optimizing **SQL** and **NoSQL** databases.
+
+### 🎨 **Design & Development**
+- Creating **responsive** and **intuitive** interfaces for various devices 📱💻  
+- Developing **secure** and **scalable APIs** ⚡  
+- Performance monitoring and **continuous improvements implementation** 🚀  
+- Experience in **UI/UX Design**, logo creation, advertising campaigns, and graphic materials  
+
+---
+
+## 📬 **Get in Touch**
+📧 Email: **gxudre@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-xudre/)  
+
+---
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlraW1vc2VydGNsNjdqZzc4MTNmeWJlNDZoMHlxMGJxenE0MHNqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2Q7FEc0bEr4I/giphy.gif" alt="GIF animado">
