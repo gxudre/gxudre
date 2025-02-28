@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Gustavo Xudré! 👋</h1>
+<h1 align="center">Olá, Prazer ! Eu sou o Gustavo! 👋</h1>
 
 <p align="center">
 💻 Desenvolvedor Full-stack | 🎨 Designer Gráfico
